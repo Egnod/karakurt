@@ -1,9 +1,9 @@
 {
-    "full_name": "Raphael Pierzina",
-    "email": "raphael@hackebrot.de",
-    "github_username": "hackebrot",
-    "repo_name": "{{cookiecutter.app_title|replace(' ', '')|lower}}",
-    "short_description": "A sleek slideshow app that supports swipe gestures.",
+    "full_name": "Alexander Lavorv",
+    "email": "code@egnod.dev",
+    "github_username": "egnod",
+    "repo_name": "karakurt_app_name",
+    "short_description": "Your app great description.",
     "version": "0.0.1",
     "year": "2022"
 }
